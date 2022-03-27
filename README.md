@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @naim200118thapril
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m naimur rahman
+- 👀 I’m interested in coding & developing
+- 🌱 I’m currently learning java & javascript
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me +880 1921201138 (whats app)
 
-<!---
-naim200118thapril/naim200118thapril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
